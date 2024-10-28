@@ -4,9 +4,9 @@
     "description": "喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵"
   },
   "language": {
-    "my_cl": {
+    "meow-tw": {
       "name": "喵語翻譯",
-      "region": "Location Spoken",
+      "region": "臺灣",
       "bidirectional": false
     }
   }
