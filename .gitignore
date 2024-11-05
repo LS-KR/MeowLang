@@ -2,3 +2,7 @@
 .vscode/
 .vs/
 .DS_Store
+
+*/**/tmp/
+*/**/*.lock
+*/**/.~lock*
