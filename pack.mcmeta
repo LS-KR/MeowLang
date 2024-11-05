@@ -1,7 +1,11 @@
 {
   "pack": {
     "pack_format": 48,
-    "description": "喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵"
+    "description": "喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵",
+    "supported_formats": {
+      "min_inclusive": 33,
+      "max_inclusive": 48
+    }
   },
   "language": {
     "meow-tw": {
